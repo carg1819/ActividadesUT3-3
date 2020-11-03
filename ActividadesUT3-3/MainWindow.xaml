@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ActividadesUT3_3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="510.326" Width="505.707" MinHeight="500" MinWidth="500">
+        Title="Mosaico" Height="510.326" Width="505.707" MinHeight="500" MinWidth="500" Icon="32 (4).ico">
     <DockPanel LastChildFill="True">
         <TextBlock Height="100"  DockPanel.Dock="Top" Background="Purple"/>
         <TextBlock Width="100"  DockPanel.Dock="Left" Background="Purple"/>
